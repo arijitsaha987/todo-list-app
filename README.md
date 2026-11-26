@@ -2,7 +2,7 @@
 A simple to-do list app built with HTML, CSS and JavaScript. Add, complete and delete tasks, saved in the browser
 # To-Do List
 
-A simple to-do list app built with HTML, CSS and JavaScript..
+A simple to-do list app built with HTML, CSS and JavaScript.
 
 ## Features
 
